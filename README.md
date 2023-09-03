@@ -1,8 +1,5 @@
 画像をコピペ
 
-# codepen
-- https://codepen.io/mameta00/pen/abPmOxy
-
 # compornent（共通部品）
 - 説明
 
@@ -26,7 +23,7 @@
 - https://c-0000.wtb.cfbx.jp/
 
 ## codepen url:
-- https://xxx
+- https://codepen.io/mameta00/pen/abPmOxy
 
 ## reference site:
 - https://retval.jp/blog/scrollable-table/
